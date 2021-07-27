@@ -24,6 +24,7 @@ Example 1:
 
 Input: s = "III"
 Output: 3
+
 Example 2:
 
 Input: s = "IV"
